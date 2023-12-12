@@ -1,0 +1,3 @@
+LICENSE file...
+
+This is a license file for this new project
