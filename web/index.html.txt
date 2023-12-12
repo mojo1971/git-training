@@ -3,7 +3,11 @@
 
 	<title> Welcome to my training page! </title>
 		
-		<body>This is the body of the page....</body>
+		<body>This is the body of the page....
+		
+		<style="background-image: url('images/training_background.webp');">
+		
+		</body>
 	
 	
 </html>
